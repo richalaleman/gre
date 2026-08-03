@@ -6,6 +6,7 @@ rust-version = "1.95"
 authors = ["tappunk"]
 description = "A super-fast multi-repo git recap for AI agents and speed-obsessed humans."
 repository = "https://github.com/tappunk/gre"
+homepage = "https://github.com/tappunk/gre"
 license = "MIT"
 readme = "README.md"
 keywords = ["git", "cli", "workflow", "developer-tools", "automation"]

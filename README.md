@@ -1,9 +1,9 @@
-![gre](https://raw.githubusercontent.com/tappunk/.github/refs/heads/main/assets/gre.webp)
+![gre](https://raw.githubusercontent.com/richalaleman/.github/refs/heads/main/assets/gre.webp)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Crates.io Version](https://img.shields.io/crates/v/gre?color=orange&cacheSeconds=3600)](https://crates.io/crates/gre)
-[![GitHub Release](https://img.shields.io/github/v/release/tappunk/gre?color=blue)](https://github.com/tappunk/gre/releases)
-[![X Follow](https://img.shields.io/twitter/follow/tappunk?style=social)](https://x.com/tappunk)
+[![GitHub Release](https://img.shields.io/github/v/release/richalaleman/gre?color=blue)](https://github.com/richalaleman/gre/releases)
+[![X Follow](https://img.shields.io/twitter/follow/richalaleman?style=social)](https://x.com/richalaleman)
 
 # gre
 
@@ -26,7 +26,7 @@
 ### Homebrew
 
 ```bash
-brew install tappunk/gre/gre
+brew install richalaleman/gre/gre
 ```
 
 ### Cargo

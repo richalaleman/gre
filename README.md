@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Crates.io Version](https://img.shields.io/crates/v/gre?color=orange&cacheSeconds=3600)](https://crates.io/crates/gre)
-[![GitHub Release](https://img.shields.io/github/v/release/richalaleman/gre?color=blue)](https://github.com/richalaleman/gre/releases)
+[![GitHub Release](https://img.shields.io/github/v/release/tappunk/gre?color=blue)](https://github.com/tappunk/gre/releases)
 [![X Follow](https://img.shields.io/twitter/follow/richalaleman?style=social)](https://x.com/richalaleman)
 
 # gre
@@ -26,7 +26,7 @@
 ### Homebrew
 
 ```bash
-brew install richalaleman/gre/gre
+brew install tappunk/gre/gre
 ```
 
 ### Cargo

@@ -26,7 +26,8 @@
 ### Homebrew
 
 ```bash
-brew install tappunk/gre/gre
+brew tap tappunk/tap            # or: cargo install gre
+brew install tappunk/tap/gre
 ```
 
 ### Cargo

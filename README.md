@@ -1,4 +1,4 @@
-![gre](https://raw.githubusercontent.com/richalaleman/.github/refs/heads/main/assets/gre.webp)
+![gre](https://raw.githubusercontent.com/tappunk/.github/refs/heads/main/assets/gre.webp)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Crates.io Version](https://img.shields.io/crates/v/gre?color=orange&cacheSeconds=3600)](https://crates.io/crates/gre)

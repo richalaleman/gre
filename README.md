@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Crates.io Version](https://img.shields.io/crates/v/gre?color=orange&cacheSeconds=3600)](https://crates.io/crates/gre)
 [![GitHub Release](https://img.shields.io/github/v/release/tappunk/gre?color=blue)](https://github.com/tappunk/gre/releases)
-[![X Follow](https://img.shields.io/twitter/follow/richalaleman?style=social)](https://x.com/richalaleman)
+[![X Follow](https://img.shields.io/twitter/follow/tappunk?style=social)](https://x.com/tappunk)
 
 # gre
 
